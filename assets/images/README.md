@@ -1,6 +1,6 @@
 # Local Images Folder
 
-Place your local images here to use them across the HelioLink Solutions website.
+Place your local images here to use them across the Heliolink Technologies website.
 
 ## Usage
 
